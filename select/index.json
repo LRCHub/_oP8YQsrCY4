@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "足りない",
+  "base_artist": "MIMiNARI",
+  "createdAt": "2026-03-01T05:00:42.063258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "足りない - From THE FIRST TAKE",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/01_足りない_-_From_THE_FIRST_TAKE_wacci.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "足りない (feat. Kotoha)",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/02_足りない_(feat._Kotoha)_MIMiNARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "足りない",
+      "artist": "MIMiNARI feat.Kotoha",
+      "has_synced": true,
+      "path": "select/03_足りない_MIMiNARI_feat.Kotoha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "足りない feat.Kotoha",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/04_足りない_feat.Kotoha_MIMiNARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "足りない",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/05_足りない_MIMiNARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "足りない",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/06_足りない_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ループ音声2_やっぱり…足りない…",
+      "artist": "ぐらまらす工房",
+      "has_synced": true,
+      "path": "select/07_ループ音声2_やっぱり...足りない..._ぐらまらす工房.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "足りない feat.Kotoha",
+      "artist": "MIMiNARI",
+      "has_synced": false,
+      "path": "select/pl_01_足りない_feat.Kotoha_MIMiNARI.txt"
+    }
+  ]
+}
